@@ -1,5 +1,6 @@
 public class MusicStyles {
-    public static void main(String[] args) {
+    public void playMusic() {
 
+        System.out.println("Playing music");
     }
 }
